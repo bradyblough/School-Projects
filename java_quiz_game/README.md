@@ -1,6 +1,6 @@
 # Brady's Quiz Game
 
-This is a simple Java quiz game created by Brady. The game consists of five multiple-choice questions, and your goal is to answer each question by inputting the letter associated with your choice. At the end of the game, you will receive a final score based on the number of correct answers.
+This is a simple Java quiz game for a programming class I took. The game consists of five multiple-choice questions, and your goal is to answer each question by inputting the letter associated with your choice. At the end of the game, you will receive a final score based on the number of correct answers.
 
 ## How to Compile and Run
 To play Brady's Quiz Game, you'll need to compile and run the Java program. Here are the steps to do so:
@@ -31,4 +31,4 @@ To play Brady's Quiz Game, you'll need to compile and run the Java program. Here
    - After answering all five questions, the program will calculate your score as a percentage of correct answers.
    - Your final score will be displayed on the screen.
 
-Enjoy the quiz game and see how well you can score! Have fun!
+Enjoy the quiz and see how well you can score! Have fun!
